@@ -119,6 +119,26 @@ Name: SVP分屏独立版-RootHide
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 
+Package: com.Axs.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.3.7-1
+Section: iXoo-Tweaks
+Maintainer: Axs
+Installed-Size: 5624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.axs.split-view-pro_1.3.7-1_iphoneos-arm64e-RootHide.deb
+Size: 1479396
+MD5sum: 78602e7d927da083a64fb8292fa9cb51
+SHA1: 7b581c070c2dbb73eb80c86a716638dd1d363e48
+SHA256: 947d9ae748ce3b585c0c5dec2b246610b18a0b3f181315174e33674cd544d49f
+SHA512: 1e01f5f36405340121d696149575cd8173b5d52539b2d950bb93c83d343ad43d245724491b52b55cd415993f32fb5f50f1adb0d46bf5b21bfbe73e5bc5890532
+Description: 分屏，不必太复杂，一切从简即可。
+Name: Svp分屏独立版-RootHide
+Author: Axs
+TS: sp-sss
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
+
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -313,6 +333,26 @@ SHA512: 684d405a22e644aad14c4be0edd5500c28f7b9f4be379d83d544648ca4511e866ccf503e
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 Name: AppData
+Author: Fouad Raheb
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
+
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.6
+Section: iXoo-Tweaks
+Maintainer: Nets
+Installed-Size: 5140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.6_iphoneos-arm64e.deb
+Size: 1503856
+MD5sum: a608a248d8f8d66089cacfd5c4739cc0
+SHA1: 9826241269233829c865ac4373f17fb11ceed395
+SHA256: e29273ceb23dfc6cb46641f3a190a0f685d060ac7f77c9d26251262ddf465820
+SHA512: ecfa67d94a1aa83648ce0888dcaddf9ec778d918148ce9d5f6d72a96e82740054bbd074045133067d5ac31cbff391b84eb144de96028fb71b563dd0901d1b854
+Description: View & Manage Applications Data from your Home Screen
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
+Name: AppData-RootHide
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
