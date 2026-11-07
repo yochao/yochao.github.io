@@ -1,0 +1,29 @@
+Origin: iXoo
+Label:                iXoo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: My personal jailbreak repository
+Date: Sat, 07 Nov 2026 10:10:15 +0800
+
+MD5Sum:
+ 23daeee78fd66cbd1e1af765bb9361cc      664 Packages
+ 00a194d5008295ebffb4b4d4f9773ba3      465 Packages.gz
+ 9b36033563bb038a264e95b3846eb7a8      540 Packages.xz
+
+SHA1:
+ fd54b05f5f2d15c2f9ab74520d27e2707d04b4ad      664 Packages
+ 4f6ff8c92dc596a773a110cde0ad2710513b6301      465 Packages.gz
+ 8d503a6b96e6215dadedaf337f303eb39e1e4c79      540 Packages.xz
+
+SHA256:
+ c383c8184f09310b85b1452befd650cf0fa601cb99eb0e0366a85ccf72c9a058      664 Packages
+ 8279c49c726689426af0026dc8ace2029f1e43c99529c828e4c6a6140fed13be      465 Packages.gz
+ 78bfe86fa6360e7282eb752542a3ebf96a1332f7bb0ce7f85bc7b5e381d3e303      540 Packages.xz
+
+SHA512:
+ a3493206a3f2a68b729bbc33060f6c3666fecf3376e26dcbb024286ce2d622d0d9ac2a3dae6274a90b7ba652bacdbe13d5f9851d4ff5b06a845767fbc1f1a413      664 Packages
+ 8559002d3f5f71dc2877e2f1238a9f11077045c22bc03b7a2d194aecd6517908ceb7bdf3259b45631a41b45d0895dbd46ebf7fbd804bd3eebb6742675478382d      465 Packages.gz
+ 6423cf480371304fbf3c4be55d3866b343f010c995549a7217167a6fc3856b7b5a1759115ea44cdf63c768ecf0269221dfdade1c74a624ae8ff3af6c57932490      540 Packages.xz
